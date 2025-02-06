@@ -1,2 +1,0 @@
-This project is a dummy atascience project to showcase the automation of infrential statistics and the abilty
-to automate the process of understanding data and extrating important info from it.
