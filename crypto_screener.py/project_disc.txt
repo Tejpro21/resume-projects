@@ -1,0 +1,8 @@
+This project is a live crypto scanner that uses ATR ,RSI and RSI based SMA to find cryptocurrencies with high volitility and predict the
+reversal points allowing traders and investors to make better more informed descions about their trading and acts as a screener showing
+only meaningful and simple content to the traders abstracting all the complexities of the various algorithms
+
+ATR: Average True Range a measure of volitility of a commodity developed by J. Welles Wilder, Jr.
+RSI: Relative strength index (RSI) is a momentum indicator used in technical analysis to predict times/zones with highest probablity of reversals
+
+The second part of this project is a ATR scanner that displays crypto with high volitility
